@@ -339,3 +339,11 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 /out/build/x64-Debug
+/CMakeFiles/6a37d06f46c91b78ff128353843d5cf5
+/CMakeFiles/3.15.19080502-MSVC_2/CompilerIdCXX
+/CMakeFiles/3.15.19080502-MSVC_2
+/CMakeFiles
+/CMakeStarter/CMakeFiles
+/CMakeStarter/ALL_BUILD.vcxproj.filters
+/CMakeStarter/ALL_BUILD.vcxproj
+/CMakeStarter/CMakeStarter.vcxproj.filters
