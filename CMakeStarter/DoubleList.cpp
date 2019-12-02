@@ -69,7 +69,7 @@ void DoubleList::WalkList()
 		curr = curr->next;
 	}
 
-	std::cout << "Now walk back to the front...";
+	std::cout << "Now walk back to the front..." << endl;
 
 	while (0 != trail)
 	{

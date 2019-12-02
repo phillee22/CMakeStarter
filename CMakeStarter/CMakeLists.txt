@@ -7,11 +7,15 @@ cmake_minimum_required (VERSION 3.8)
 project(CMakeStarter VERSION 1.0)
 
 # Add source to this project's executable.
-add_executable (CMakeStarter "Box.cpp" "Box.h" 
-	"CMakeStarter.cpp" "CMakeStarter.h" 
-	"DoubleLink.cpp" "DoubleLink.h" 
+add_executable (CMakeStarter "Box.h" "Box.cpp" 
+	"CMakeStarter.h" "CMakeStarter.cpp" 
+	"DoubleLink.h" "DoubleLink.cpp" 
+	"DoubleList.h" "DoubleList.cpp"
 	"global.h" "global.cpp" 
-	"Link.cpp" "Link.h" 
-	"ListManager.cpp" "ListManager.h" )
+	"IList.h" "IList.cpp"
+	"Link.h" "Link.cpp" 
+	"ListManager.h" "ListManager.cpp"
+	"SingleList.h" "SingleList.cpp"
+	)
 
 # TODO: Add tests and install targets if needed.

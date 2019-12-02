@@ -29,7 +29,7 @@ void ListManager::CreateList(int ListSize)
 
 void ListManager::Free3Links()
 {
-	_list->Free3Links();
+	_list->Free3Links(); 99;
 }
 
 
