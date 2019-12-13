@@ -14,7 +14,7 @@ class ListManager
 {
 private:
 	LinkType _type;
-	Link* head;
+	Link* _head;
 	IList* _list;
 
 public:

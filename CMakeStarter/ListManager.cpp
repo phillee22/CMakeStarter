@@ -11,6 +11,7 @@ ListManager::ListManager(LinkType type)
 {
 	_type = type;
 	_list = 0;
+	_head = 0;
 }
 
 
